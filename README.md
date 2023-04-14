@@ -1,5 +1,5 @@
 ## Merhaba Ben Hansa'Nur 🌠 
-Ben bir İç Mimarım. sanat, tasarım ve illüstrasyonla ilgileniyorum. Teknolojinin gelişmelerini takip ederek, bir web sitesinin grafik kullanıcı ara yüzünün geliştirilmesi için gerekli olan teknolojileri öğrenmek için eğitim almaktayım. <br>
+Ben bir İç Mimarım. Sanat, Tasarım ve Illüstrasyonla ilgileniyorum. Teknolojinin gelişmelerini takip ederek, bir web sitesinin grafik kullanıcı ara yüzünün geliştirilmesi için gerekli olan teknolojileri öğrenmek için eğitim almaktayım. <br>
 ## 🔭 Şu anda nelerle ilgileniyorum? <br>
 Şu anda web sitelerinin grafik kullanıcı arayüzlerinin tasarımı ve geliştirilmesi için gerekli olan teknolojileri öğreniyorum.✦ <br>
 HTML, CSS ve JavaScript gibi teknolojiler hakkında çalışmalar yapıyorum . Ayrıca Adobe Photoshop, Adobe Illustrator ve 3 Boyutlu çizim programlarını ve tasarım araçlarını kullanmaya ve tasarım yapmaya devam ediyorum.<br>
