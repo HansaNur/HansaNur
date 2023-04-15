@@ -5,8 +5,10 @@ Ben bir İç Mimarım. Sanat, Tasarım ve Illüstrasyonla ilgileniyorum. Teknolo
 HTML, CSS ve JavaScript gibi teknolojiler hakkında çalışmalar yapıyorum . Ayrıca Adobe Photoshop, Adobe Illustrator ve 3 Boyutlu çizim programlarını ve tasarım araçlarını kullanmaya ve tasarım yapmaya devam ediyorum.<br>
 ## 🚀 İlgi Alanlarım
 ✦ Web tasarımı ve kullanıcı arayüzü geliştirme<br>
-✦ Sanat ve tasarım<br>
+✦ Tasarım<br>
 ✦ İllüstrasyon
+
+
 
 
 
