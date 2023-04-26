@@ -148,4 +148,18 @@ Here are some ideas to get you started:
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inspiration+Code&size=21&duration=6000&pause=200&color=FFED00&width=550&height=45&lines=🧙+Have+a+good+day+🧙)
 <br><br>
 
+"Hello, I am Hansa'Nur 🌠
+I am an interior designer and I am interested in art, design, and illustration. I am currently studying to learn the necessary technologies for developing the graphic user interface of a website by following the developments in technology.
+I am working on technologies such as HTML, CSS, and JavaScript. Additionally, I continue to use and design with design tools and programs such as Adobe Photoshop, Adobe Illustrator, and 3D drawing programs.
+
+🚀 My Interests
+✦ Web design and user interface development
+✦ Design
+✦ Illustration"
+
+
+
+
+
+
 -->
