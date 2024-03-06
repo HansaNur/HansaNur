@@ -1,3 +1,4 @@
+<!--
 ## Merhaba Ben Hansa'Nur 🌠 
 Ben İç Mimarım.Tasarım ve İllüstrasyonla ilgileniyorum. Teknolojinin gelişmelerini takip ederek, bir web sitesinin grafik kullanıcı ara yüzünün geliştirilmesi için gerekli olan teknolojileri öğrenmek için eğitim almaktayım. <br>
 ## 🔭 Şu anda nelerle ilgileniyorum? <br>
@@ -34,6 +35,7 @@ HTML, CSS ve JavaScript gibi teknolojiler hakkında çalışmalar yapıyorum . A
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) <br><br><br><br>
 
 
+-->
 
 
 
